@@ -1,4 +1,4 @@
-# SnoozeAnalysts
+# The Snooze Analysts
 
 April Code Pudding 
 By Jess Cunningham, Bereket Wendimagegn, and Sakinah Jaisingh
